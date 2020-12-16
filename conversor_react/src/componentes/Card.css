@@ -1,0 +1,25 @@
+.Card{
+    background-color: rgb(9, 23, 102);
+    border-radius: 10px;
+    overflow: hidden;
+    border: 4px solid rgba(241, 241, 241,0.6);
+    margin: 5px;
+    min-width: 250px;
+    max-width: 250px;
+    min-height: 300px;
+}
+
+
+.Title{
+    padding: 10px 0px;
+    justify-content: center;
+    text-align: center;
+    color: aliceblue;
+    font-size: 12pt;
+}
+.Content{
+    background-color: rgb(18, 5, 135);
+    color: rgb(255, 255, 255);
+    padding: 10px;  
+    margin: 10px auto;
+}
